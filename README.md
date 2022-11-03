@@ -1,10 +1,5 @@
-# nerfgenji.github.io
 
-<!DOCTYPE html>
 <html>
-<head>
-<title>Page Title</title>
-</head>
 <body>
   
 <h1>Tudengikood: 212965IAAB</h1>
